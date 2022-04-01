@@ -1,4 +1,4 @@
 # Desafio de Projeto sobre Git/Github
-desafio-carrefour-github
+Repositório criado para o desafio do projeto
 ## Links Úteis
 [Sintaxe básica Markdown](https://www.markdownguide.org/)
